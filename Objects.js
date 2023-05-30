@@ -47,3 +47,11 @@ console.log(bear);
 console.log(bear.deadly);
 console.log(bookOfKnowledge);
 console.log(bookOfKnowledge["the ultimate answer"]);
+
+//modify
+bird.color = "black";
+bird["where it lives"] = "in a tree";
+console.log(bird.color);
+console.log(bird["where it lives"]);
+
+delete bird.color; //deles a property
