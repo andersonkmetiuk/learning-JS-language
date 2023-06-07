@@ -1,5 +1,5 @@
 //examples of conditionals
-
+var answer = true;
 //if
 if (answer === true) {
   console.log("You said true!");
