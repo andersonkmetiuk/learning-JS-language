@@ -1,4 +1,4 @@
-### Learning the JavaScript Language - LinkedinLearning
+# Learning the JavaScript Language - LinkedinLearning
 
 Course by Joe Chellman &rarr; www.linkedin.com/learning/learning-the-javascript-language-22309208
 
